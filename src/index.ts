@@ -1,8 +1,8 @@
 // 「01.環境構築」と「02.ESLint&Prettier」のサンプルコード
-// import World from './world'
-// const root: HTMLElement | null = document.getElementById('root')
-// const world = new World('Hello World!!!')
-// world.sayHello(root)
+import World from './world'
+const root: HTMLElement | null = document.getElementById('root')
+const world = new World('Hello typescript world!!!')
+world.sayHello(root)
 
 // 「03.基本の型定義」のサンプルコード
 // import { anySample, notExist, primitiveSample, unknownSample } from './basic'
@@ -35,8 +35,8 @@
 // arraySample()
 // tupleSample()
 
-// 「07.ジェネリック型とポリモーフィズム」のサンプルコード
-import genericsSample from './generics/basic'
-import advancedSample from './generics/advanced'
-genericsSample()
-advancedSample()
+// // 「07.ジェネリック型とポリモーフィズム」のサンプルコード
+// import genericsSample from './generics/basic'
+// import advancedSample from './generics/advanced'
+// genericsSample()
+// advancedSample()
