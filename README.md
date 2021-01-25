@@ -1,3 +1,6 @@
+#虎ハックさんのTypescript講座。の練習リポジトリ
+torahackさんありがとうございます。
+
 # License
 The source code is licensed MIT.
 
