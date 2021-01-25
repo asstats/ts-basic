@@ -1,6 +1,6 @@
 # 虎ハックさんのTypescript講座。の練習リポジトリ
 torahackさんありがとうございます。
-ihttps://www.youtube.com/watch?v=R35LJL6a-p0
+https://www.youtube.com/watch?v=R35LJL6a-p0
 
 # License
 The source code is licensed MIT.
